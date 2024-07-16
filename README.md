@@ -36,7 +36,7 @@
 <h2 id="usage">Usage</h2>
 <ol>
     <li>Clone the repository:
-        <pre><code>git clone https://github.com/yourusername/timeseriesforecasting.git
+        <pre><code>git clone https://github.com/SahilRangrez/Time-Series-Forecasting.git
 cd timeseriesforecasting</code></pre>
     </li>
     <li>Open the Jupyter notebook:
